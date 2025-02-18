@@ -4,10 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/style.css">
-    <link rel="icon" href="<?php echo $base_url; ?>images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
     <title>Vallende Duivel</title>
 </head>
 <body>
-    
+    <header>
+        <h1>De vallende Duivel</h1>
+        <nav>
+            <a href="#">wachtrij</a>
+            <a href="#">info</a>
+            <a href="#">media</a>
+        </nav>
+    </header>
 </body>
 </html>

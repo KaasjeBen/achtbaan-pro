@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url("../images/background.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+header{
+    display: flex;
+    padding: 10px;
+    background-color: darkred;
+    color: white;
+}
+nav{
+    padding-left: 500px;
+}
+a{
+    padding-right: 50px;
+    font-size: x-large;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: aqua;
+}
