@@ -13,7 +13,6 @@
         <nav>
             <a href="#">wachtrij</a>
             <a href="#">info</a>
-            <a href="#">media</a>
         </nav>
     </header>
 </body>
